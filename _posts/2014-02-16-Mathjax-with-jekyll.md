@@ -4,7 +4,7 @@ title: "MathJax with Jekyll"
 date: 2014-02-16
 categories: opinion
 tags: [resources,jekyll,aabbcc]
-image: http://gastonsanchez.com/images/blog/mathjax_logo.png
+image: http://img.desktx.com/d/file/wallpaper/scenery/20170209/ca186d97701674b996264b2d352894a7.jpg
 ---
 
 One of the rewards of switching my website to [Jekyll](http://jekyllrb.com/) is the
